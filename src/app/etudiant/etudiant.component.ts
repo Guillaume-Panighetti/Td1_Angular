@@ -11,3 +11,11 @@ export class EtudiantComponent {
 nomEtu = "Panighetti";
 prenomEtu = "Guillaume"
 }
+
+function retNomEtu(){
+
+}
+
+function retPrenomEtu(){
+  
+}
